@@ -17,3 +17,4 @@ java.util.concurrent
 Other:
 - [Money and Currency API](https://github.com/tyoma17/jdk-features/tree/master/src/test/java/com/tyoma17/money) (not from JDK)
 - [Annotation inheritance](https://github.com/tyoma17/jdk-features/tree/master/src/test/java/com/tyoma17/lang/annotation)
+- [Object copying](https://github.com/tyoma17/jdk-features/tree/master/src/test/java/com/tyoma17/lang/copy)
